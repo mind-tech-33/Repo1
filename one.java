@@ -9,3 +9,7 @@ public void fun()
 {
 system.out.println ("it is main branch copy");
 }
+public void fun1()
+{
+system.out.println ("it is dev1 branch copy");
+}
